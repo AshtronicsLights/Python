@@ -1,0 +1,3 @@
+a= input("Enter number")
+c=a*a
+Print("Square of a is:", c)
